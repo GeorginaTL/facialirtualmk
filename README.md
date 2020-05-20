@@ -1,2 +1,2 @@
 # facialirtualmk
-Servicio irtual de facial Mary Kay
+Servicio Virtual de facial Mary Kay
